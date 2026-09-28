@@ -1,0 +1,48 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/main/dotenv-18.0.3",
+    "dependabot/npm_and_yarn/main/eslint-10.11.0",
+    "dependabot/npm_and_yarn/main/lucide-react-1.48.0",
+    "dependabot/npm_and_yarn/main/prettier-3.9.9",
+    "dependabot/npm_and_yarn/main/react-i18next-17.0.15",
+    "dependabot/npm_and_yarn/main/turbo-2.11.4",
+    "dependabot/npm_and_yarn/main/upstash/ratelimit-2.2.0",
+    "dependabot/npm_and_yarn/main/upstash/redis-1.39.0",
+    "dependabot/npm_and_yarn/main/vite-8.3.1",
+    "dependabot/npm_and_yarn/main/vitest-92ac8026ca",
+    "docs/delta-neutral-strategy-guide",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/main/dotenv-18.0.3": "main",
+    "dependabot/npm_and_yarn/main/eslint-10.11.0": "main",
+    "dependabot/npm_and_yarn/main/lucide-react-1.48.0": "main",
+    "dependabot/npm_and_yarn/main/prettier-3.9.9": "main",
+    "dependabot/npm_and_yarn/main/react-i18next-17.0.15": "main",
+    "dependabot/npm_and_yarn/main/turbo-2.11.4": "main",
+    "dependabot/npm_and_yarn/main/upstash/ratelimit-2.2.0": "main",
+    "dependabot/npm_and_yarn/main/upstash/redis-1.39.0": "main",
+    "dependabot/npm_and_yarn/main/vite-8.3.1": "main",
+    "dependabot/npm_and_yarn/main/vitest-92ac8026ca": "main",
+    "docs/delta-neutral-strategy-guide": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/main/dotenv-18.0.3",
+    "dependabot/npm_and_yarn/main/eslint-10.11.0",
+    "dependabot/npm_and_yarn/main/lucide-react-1.48.0",
+    "dependabot/npm_and_yarn/main/prettier-3.9.9",
+    "dependabot/npm_and_yarn/main/react-i18next-17.0.15",
+    "dependabot/npm_and_yarn/main/turbo-2.11.4",
+    "dependabot/npm_and_yarn/main/upstash/ratelimit-2.2.0",
+    "dependabot/npm_and_yarn/main/upstash/redis-1.39.0",
+    "dependabot/npm_and_yarn/main/vite-8.3.1",
+    "dependabot/npm_and_yarn/main/vitest-92ac8026ca",
+    "docs/delta-neutral-strategy-guide",
+    "origin"
+  ]
+}
