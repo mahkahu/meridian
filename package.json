@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "turbo run dev",
-    "build": "turbo run build",
+    "dev": "node api.js && turbo run dev",
+    "build": "node api.js && turbo run build",
     "test": "turbo run test",
     "coverage": "turbo run coverage",
     "lint": "turbo run lint",
@@ -23,7 +23,7 @@
     "turbo": "^2.10.13",
     "tsx": "^4.23.13",
     "typescript": "^6.0.3",
-    "prettier": "^3.9.8",
+    "prettier": "^3.9.9",
     "@eslint/js": "^10.0.1",
     "eslint": "^10.10.0"
   },
